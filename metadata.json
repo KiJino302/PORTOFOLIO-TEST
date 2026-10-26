@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Folio — Custom Portfolio Studio",
+  "description": "An editorial portfolio website builder and live configurator for designers, engineers, and creative directors with customizable themes, typography, bento layouts, and standalone HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
